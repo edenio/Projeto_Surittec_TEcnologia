@@ -1,10 +1,10 @@
-package com.devsuperior.dsvendas;
+package com.surittec.cadcliente;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DsvendasApplicationTests {
+class CadClienteApplicationTests {
 
 	@Test
 	void contextLoads() {

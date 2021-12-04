@@ -10,9 +10,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 
 @Entity
 public class Usuario implements UserDetails {
-	
-	
-	
+
 	@Id
 	private String login;
 	private String nomeCompleto;
